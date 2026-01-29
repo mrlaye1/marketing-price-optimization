@@ -128,4 +128,5 @@ source("src/visualization.R")
 ## Author
 
 ABDOULAYE DIOP
+
 Marketing Analytics
