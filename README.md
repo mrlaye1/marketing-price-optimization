@@ -123,3 +123,8 @@ From the project root directory, run:
 source("src/data_preparation.R")
 source("src/price_optimization.R")
 source("src/visualization.R")
+```
+---
+## Author
+
+Abdoulaye Diop
